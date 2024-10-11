@@ -1,4 +1,4 @@
 server:
   port:8081
 
-mesnaje: "Welcome user service"
+mensaje: "Welcome user service"
